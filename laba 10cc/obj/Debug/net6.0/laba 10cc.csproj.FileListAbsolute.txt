@@ -1,0 +1,15 @@
+D:\учеба\програмки\laba 10cc\bin\Debug\net6.0\laba 10cc.exe
+D:\учеба\програмки\laba 10cc\bin\Debug\net6.0\laba 10cc.deps.json
+D:\учеба\програмки\laba 10cc\bin\Debug\net6.0\laba 10cc.runtimeconfig.json
+D:\учеба\програмки\laba 10cc\bin\Debug\net6.0\laba 10cc.dll
+D:\учеба\програмки\laba 10cc\bin\Debug\net6.0\laba 10cc.pdb
+D:\учеба\програмки\laba 10cc\obj\Debug\net6.0\laba 10cc.csproj.AssemblyReference.cache
+D:\учеба\програмки\laba 10cc\obj\Debug\net6.0\laba 10cc.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\програмки\laba 10cc\obj\Debug\net6.0\laba 10cc.AssemblyInfoInputs.cache
+D:\учеба\програмки\laba 10cc\obj\Debug\net6.0\laba 10cc.AssemblyInfo.cs
+D:\учеба\програмки\laba 10cc\obj\Debug\net6.0\laba 10cc.csproj.CoreCompileInputs.cache
+D:\учеба\програмки\laba 10cc\obj\Debug\net6.0\laba 10cc.dll
+D:\учеба\програмки\laba 10cc\obj\Debug\net6.0\refint\laba 10cc.dll
+D:\учеба\програмки\laba 10cc\obj\Debug\net6.0\laba 10cc.pdb
+D:\учеба\програмки\laba 10cc\obj\Debug\net6.0\laba 10cc.genruntimeconfig.cache
+D:\учеба\програмки\laba 10cc\obj\Debug\net6.0\ref\laba 10cc.dll
